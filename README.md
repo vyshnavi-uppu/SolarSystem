@@ -39,19 +39,18 @@ SolarSystem/
     └── neptune.jpg
 
 
-**🚀 How to Run the Project**
+## 🚀 How to Run the Project
+
 To avoid browser restrictions with loading local images, run the project through a local server:
 
-✅  Using Live Server in Visual Studio Code (Recommended)
-Install Visual Studio Code
+✅ **Using Live Server in Visual Studio Code (Recommended)**
 
-Install the Live Server extension
+1. **Install Visual Studio Code**  
+2. **Install the Live Server extension**  
+3. **Open the project folder in VS Code**  
+4. **Right-click `index.html` → “Open with Live Server”**  
+5. The simulation will open automatically in your browser
 
-Open the project folder in VS Code
-
-Right-click index.html → "Open with Live Server"
-
-The simulation will open automatically in your browser
 
 **📦 Dependency**
 This project only requires Three.js, included via CDN:
