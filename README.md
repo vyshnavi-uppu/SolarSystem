@@ -61,10 +61,13 @@ This project only requires Three.js, included via CDN:
 No installation or build tools required.
 
 ## 🌍 Images Used
-All planet and Sun images are placed inside the Images/ folder.
 
-Source:
+All planet and Sun images are placed inside the `Images/` folder.
+
+**Source:**  
 🔗 SolarSystemScope Textures (Free Public Domain)
+
+```text
 Images/
 ├── sun.jpg
 ├── mercury.jpg
@@ -75,6 +78,8 @@ Images/
 ├── saturn.jpg
 ├── uranus.jpg
 └── neptune.jpg
+```
+
 
 ## 🎮 Controls
 🔄 Reset – Reset speeds and camera view
