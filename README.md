@@ -1,8 +1,8 @@
-Interactive 3D Solar System with Three.js
+**Interactive 3D Solar System with Three.js**
 
 This is an interactive and animated 3D simulation of the Solar System built using Three.js. Each planet orbits the Sun with realistic motion, distances, and textures. The simulation includes real-time speed controls, camera movement, zoom, and optional labels.
 
-🌟 Features
+**🌟 Features**
 🌞 3D planets with image textures and smooth orbits
 
 🎛️ Real-time speed control for each planet
@@ -15,9 +15,11 @@ This is an interactive and animated 3D simulation of the Solar System built usin
 
 🌀 Realistic orbital revolution and spacing
 
-🖥️ Demo Preview
+**🖥️ Demo Preview**
+
 <img width="953" alt="Solar_System 3D" src="https://github.com/user-attachments/assets/d83c4f24-d22b-443b-9245-10c086149489" />
-📁 Folder Structure
+
+**📁 Folder Structure**
 SolarSystem/
 │
 ├── index.html       # Main HTML structure
@@ -34,7 +36,7 @@ SolarSystem/
     ├── uranus.jpg
     └── neptune.jpg
 
-🚀 How to Run the Project
+**🚀 How to Run the Project**
 To avoid browser restrictions with loading local images, run the project through a local server:
 
 ✅  Using Live Server in Visual Studio Code (Recommended)
@@ -48,13 +50,13 @@ Right-click index.html → "Open with Live Server"
 
 The simulation will open automatically in your browser
 
-📦 Dependency
+**📦 Dependency**
 This project only requires Three.js, included via CDN:
 
 <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
 No installation or build tools required.
 
-🌍 Images Used
+**🌍 Images Used**
 All planet and Sun images are placed inside the Images/ folder.
 
 Source:
@@ -70,7 +72,7 @@ Images/
 ├── uranus.jpg
 └── neptune.jpg
 
-🎮 Controls
+**🎮 Controls**
 🔄 Reset – Reset speeds and camera view
 
 ▶️ Resume – Restart animation
@@ -85,7 +87,7 @@ Images/
 
 🔍 Scroll Wheel – Zoom in/out
 
-👩‍💻 Developed By
+**👩‍💻 Developed By**
 Vyshnavi Uppu
 Frontend Developer | Creative Coder | Explorer of Web-Based 3D Visualizations
 
