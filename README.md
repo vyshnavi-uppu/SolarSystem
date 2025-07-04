@@ -1,4 +1,5 @@
 Interactive 3D Solar System with Three.js
+
 This is an interactive and animated 3D simulation of the Solar System built using Three.js. Each planet orbits the Sun with realistic motion, distances, and textures. The simulation includes real-time speed controls, camera movement, zoom, and optional labels.
 
 🌟 Features
