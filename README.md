@@ -37,6 +37,8 @@ SolarSystem/
     ├── saturn.jpg
     ├── uranus.jpg
     └── neptune.jpg
+``` 
+
 
 
 ## 🚀 How to Run the Project
