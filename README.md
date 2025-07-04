@@ -19,7 +19,9 @@ This is an interactive and animated 3D simulation of the Solar System built usin
 
 <img width="953" alt="Solar_System 3D" src="https://github.com/user-attachments/assets/d83c4f24-d22b-443b-9245-10c086149489" />
 
-**📁 Folder Structure**
+## 📁 Folder Structure
+
+```text
 SolarSystem/
 │
 ├── index.html       # Main HTML structure
@@ -35,6 +37,7 @@ SolarSystem/
     ├── saturn.jpg
     ├── uranus.jpg
     └── neptune.jpg
+
 
 **🚀 How to Run the Project**
 To avoid browser restrictions with loading local images, run the project through a local server:
