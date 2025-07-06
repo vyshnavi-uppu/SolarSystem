@@ -17,7 +17,8 @@ This is an interactive and animated 3D simulation of the Solar System built usin
 
 ## 🖥️ Demo Preview
 
-<img width="953" alt="Solar_System 3D" src="https://github.com/user-attachments/assets/d83c4f24-d22b-443b-9245-10c086149489" />
+![Screenshot 2025-07-06 151631](https://github.com/user-attachments/assets/b74e13e5-3f4f-4414-81b9-ad2aa216607b)
+
 
 ## 📁 Folder Structure
 
